@@ -46,6 +46,9 @@ body{
     height: auto;
     margin-top: 20px;
 }
+h2{
+	dysplay:inline;
+}
 /*header------------ start*/
 /*main------------ start*/
 .main{
